@@ -1,14 +1,14 @@
 # Jennifer Yik – Data Analytics & BI Portfolio
 
-Welcome to my portfolio! I showcase real-world projects that demonstrate my ability to transform complex data into **actionable insights**. Through **Power BI**, **SQL**, and **data analysis techniques**, I solve business challenges and provide data-driven solutions in **Business Intelligence (BI)** and **Dashboard Development**.
+Welcome to my portfolio! I showcase real-world projects that demonstrate my ability to transform complex data into actionable insights. Through **Power BI**, **SQL**, and **data analysis techniques**, I solve business challenges and provide data-driven solutions in **Business Intelligence (BI)** and **Dashboard Development**.
 
 ## Projects
 
 1. **[F&B Menu Engineering & Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard)**  
-   Interactive Power BI dashboard that analyzes **menu performance**, **profitability**, and **cost efficiency** in a Food & Beverage (F&B) environment. Uses **menu engineering principles** to classify items, uncover margin risks, and provide actionable insights for decision-making on pricing, promotions, and menu optimization — improving profitability and operational efficiency.
+  Developed an interactive **Power BI dashboard** to analyze **menu performance**, **profitability**, and **cost efficiency** in a Food & Beverage (F&B) setting. The dashboard applies **menu engineering principles** to classify menu items, uncover margin risks, and optimize decision-making for pricing, promotions, and menu composition, resulting in improved **profitability** and **operational efficiency**.
 
 2. **[Capstone Project – Big Data Analytics](./02_Capstone_Project)**  
-   Applied **Python**, **ARIMA**, **Prophet**, and **Random Forest** models to **forecast global health and economic trends** (1950–2023). Used historical data to predict disease trends and their impact through 2074, enabling long-term planning and resource allocation.
+  Applied **Python**, **ARIMA**, **Prophet**, and **Random Forest** models to **forecast global health and economic trends** (1950–2023). By analyzing large-scale historical data, I predicted disease trends and their future impacts, enabling **strategic planning** and **resource allocation** through 2074.
 
 ## Project Previews
 
