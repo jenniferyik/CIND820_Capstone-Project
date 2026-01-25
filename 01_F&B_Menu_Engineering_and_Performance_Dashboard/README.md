@@ -6,6 +6,14 @@ By combining menu engineering theory with sales and cost analytics, the dashboar
 
 ---
 
+## Dashboard Preview
+
+![01_F&B_Menu_Engineering_and_Performance_Dashboard](./Reports/dashboard_preview.png)
+
+*Executive-level Power BI dashboard highlighting KPIs, menu engineering insights, cost risk, and category performance.*
+
+---
+
 ## Business Problem
 Restaurant operators often struggle to balance **menu popularity with profitability** while maintaining acceptable food cost levels.  
 High-selling items are not always high-margin, and cost risks can remain hidden without structured analysis.
