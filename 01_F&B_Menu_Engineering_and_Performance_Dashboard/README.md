@@ -1,6 +1,12 @@
 # F&B Menu Engineering and Performance Dashboard
 
 ## Executive Summary
+This Power BI dashboard analyzes **F&B menu performance, profitability, and food cost efficiency**.  
+It identifies high- and low-performing items using **menu engineering principles**, providing actionable insights for **pricing, promotions, and menu optimization**.  
+
+---
+
+## Objective Overview
 This project presents a **business intelligence dashboard** designed to support **menu performance optimization, profitability analysis, and food cost control** in a Food & Beverage (F&B) environment.  
 By combining menu engineering theory with sales and cost analytics, the dashboard enables stakeholders to make **data-driven decisions** around pricing, promotions, and menu composition.
 
@@ -10,7 +16,7 @@ By combining menu engineering theory with sales and cost analytics, the dashboar
 
 ![01_F&B_Menu_Engineering_and_Performance_Dashboard](./Reports/Dashboard_Preview.png)
 
-*Executive-level Power BI dashboard highlighting KPIs, menu engineering insights, cost risk, and category performance.*
+*Power BI dashboard highlighting KPIs, menu engineering insights, cost risk, and category performance.*
 
 ---
 
@@ -33,10 +39,10 @@ This dashboard addresses these challenges by transforming raw sales and cost dat
 ## Key Features & Insights
 
 ### 📊 Executive KPI Overview
-- **Total Revenue**
-- **Food Cost %**
-- **Total PPV (Profit per Volume)**
-- **% of Star Items**
+- **Total Revenue**  
+- **Food Cost %**  
+- **Total PPV (Profit per Volume)**  
+- **% of Star Items**  
 
 These KPIs provide an at-a-glance view of overall business health and financial performance.
 
@@ -44,8 +50,8 @@ These KPIs provide an at-a-glance view of overall business health and financial 
 
 ### 📈 Menu Engineering Analysis
 - **Scatter Plot (Menu Engineering Matrix)** mapping:
-  - Popularity (Quantity Sold)
-  - Profitability (Margin / PPV)
+  - Popularity (Quantity Sold)  
+  - Profitability (Margin / PPV)  
 - Classifies menu items into **Stars, Plowhorses, Puzzles, and Dogs** to support targeted strategic decisions.
 
 #### Methodology
@@ -56,9 +62,9 @@ Menu items were classified into **Stars, Puzzles, Plowhorses, and Dogs** based o
 
 ### 📋 Cost & Margin Risk Assessment
 - Tabular view of:
-  - Cost Risk Level
-  - Margin
-  - Cost Percentage
+  - Cost Risk Level  
+  - Margin  
+  - Cost Percentage  
 - Highlights menu items requiring pricing adjustments or cost control initiatives.
 
 ---
@@ -71,11 +77,11 @@ Menu items were classified into **Stars, Puzzles, Plowhorses, and Dogs** based o
 ---
 
 ### 🧠 Dynamic Insight Card
-- Automatically surfaces the **top-selling pizza for the selected month**
+- Automatically surfaces the **top-selling pizza for the selected month**  
 - Displays:
-  - Item name
-  - Margin
-  - Cost %
+  - Item name  
+  - Margin  
+  - Cost %  
 - Provides instant, actionable insight without manual analysis.
 
 ---
@@ -96,7 +102,6 @@ This dashboard enables stakeholders to:
 ---
 
 ## Menu Engineering Action Framework
-Based on menu engineering classification, the dashboard supports the following business actions:
 
 ### ⭐ Stars (High Popularity, High Profitability)
 - Actively promote and feature on the menu  
@@ -135,11 +140,18 @@ Based on menu engineering classification, the dashboard supports the following b
 
 ---
 
+## Key Achievements
+- Designed KPI framework for revenue, margin, and PPV analysis  
+- Applied menu engineering methodology to drive actionable insights  
+- Built interactive dashboards used for strategic decision-making  
+
+---
+
 ## Business Value
 This project demonstrates the ability to:
-- Translate complex datasets into **clear business insights**
-- Apply analytical frameworks to real operational decisions
-- Design dashboards that are **executive-ready and decision-oriented**
+- Translate complex datasets into **clear business insights**  
+- Apply analytical frameworks to real operational decisions  
+- Design dashboards that are **executive-ready and decision-oriented**  
 - Communicate insights effectively to non-technical stakeholders  
 
 ---
@@ -156,4 +168,5 @@ This project demonstrates the ability to:
 Data Analytics | Business Intelligence | Dashboard Design  
 
 📌 *This project is part of a professional analytics portfolio showcasing real-world, business-driven dashboard solutions.*
+
 
