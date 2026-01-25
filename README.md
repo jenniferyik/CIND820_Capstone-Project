@@ -1,6 +1,6 @@
 # Jennifer Yik – Data Analytics & BI Portfolio
 
-Welcome to my portfolio! Here, I showcase real-world projects demonstrating my skills in **Data Analytics**, **Business Intelligence (BI)**, and **Dashboard Solutions** that turn complex data into **actionable business insights**. These projects reflect my ability to solve business challenges using **Power BI**, **SQL**, and **data analysis techniques**.
+Welcome to my portfolio! I showcase real-world projects that demonstrate my ability to transform complex data into **actionable insights**. Through **Power BI**, **SQL**, and **data analysis techniques**, I solve business challenges and provide data-driven solutions in **Business Intelligence (BI)** and **Dashboard Development**.
 
 ## Projects
 
