@@ -149,7 +149,7 @@ This classification drives **practical recommendations** for menu optimization a
 **Jennifer Yik**  
 Data Analytics | Business Intelligence | Dashboard Design  
 
-📌 *Part of a professional analytics portfolio showcasing real-world, business-driven dashboard solutions.*
+
 
 
 
