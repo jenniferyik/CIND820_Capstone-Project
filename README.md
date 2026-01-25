@@ -12,11 +12,12 @@ Welcome to my portfolio! Here, I showcase real-world projects demonstrating my s
 
 ## Project Previews
 
-*1. Snapshot of my F&B Menu Engineering dashboard showcasing KPIs, menu engineering insights, and cost analysis.*
 ![F&B Menu Engineering and Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard/Reports/Dashboard_Preview.png)
+*1. Snapshot of my F&B Menu Engineering dashboard showcasing KPIs, menu engineering insights, and cost analysis.*
 
-*2. Snapshot of my Capstone Project - Big Data Analytics, forecast global health and economic trends.*
 
+![Capstone_Project](./02_Capstone_Project/Report/Capstone_Project_Forecast.png)
+*2. Snapshot of my Big Data Analytics capstone project, forecasting long-term global health and economic trends using large-scale historical data.*
 
 ## Connect
 
