@@ -1,23 +1,26 @@
 # Jennifer Yik – Data Analytics & BI Portfolio
 
-Welcome to my portfolio! Here, I showcase real-world projects demonstrating my skills in Data Analytics, Business Intelligence (BI), and Dashboard Solutions that turn complex data into actionable business insights. These projects reflect my ability to solve business challenges using **Power BI**, **SQL**, and **data analysis techniques**.
+Welcome to my portfolio! Here, I showcase real-world projects demonstrating my skills in **Data Analytics**, **Business Intelligence (BI)**, and **Dashboard Solutions** that turn complex data into **actionable business insights**. These projects reflect my ability to solve business challenges using **Power BI**, **SQL**, and **data analysis techniques**.
 
 ## Projects
 
 1. **[F&B Menu Engineering & Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard)**  
-   Interactive Power BI dashboard that analyzes **menu performance**, **profitability**, and **cost efficiency** in a Food & Beverage (F&B) environment. Uses **menu engineering principles** to classify items, uncover margin risks, and guide decision-making on pricing, promotions, and menu optimization.
+   Interactive Power BI dashboard that analyzes **menu performance**, **profitability**, and **cost efficiency** in a Food & Beverage (F&B) environment. Uses **menu engineering principles** to classify items, uncover margin risks, and provide actionable insights for decision-making on pricing, promotions, and menu optimization — improving profitability and operational efficiency.
 
 2. **[Capstone Project – Big Data Analytics](./02_Capstone_Project)**  
-   Applied **Python**, **ARIMA**, **Prophet**, and **Random Forest** models to **forecast global health and economic trends** (1950–2023). Used historical data to predict disease trends and their impact through 2074.
+   Applied **Python**, **ARIMA**, **Prophet**, and **Random Forest** models to **forecast global health and economic trends** (1950–2023). Used historical data to predict disease trends and their impact through 2074, enabling long-term planning and resource allocation.
 
 ## Project Previews
 
-![F&B Menu Engineering and Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard/Reports/Dashboard_Preview.png)
-*1. Snapshot of my F&B Menu Engineering dashboard showcasing KPIs, menu engineering insights, and cost analysis.*
+![F&B Menu Engineering and Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard/Reports/Dashboard_Preview.png)  
+*Snapshot of my F&B Menu Engineering dashboard, providing key insights into **KPIs**, **menu optimization**, and **cost analysis** to drive **data-driven decisions** for F&B businesses.*
 
+---
 
-![Capstone_Project](./02_Capstone_Project/Report/Capstone_Project_Forecast.png)
-*2. Snapshot of my Big Data Analytics capstone project, forecasting long-term global health and economic trends using large-scale historical data.*
+![Capstone Project](./02_Capstone_Project/Report/Capstone_Project_Forecast.png)  
+*Snapshot of my Big Data Analytics capstone project, forecasting long-term global health and economic trends using large-scale historical data to support strategic, long-term decision-making.*
+
+---
 
 ## Connect
 
@@ -28,12 +31,9 @@ I'm passionate about using data to solve business problems. Feel free to connect
 ---
 
 ### Tools & Technologies Used
-- **Power BI** – Data modeling, DAX, and dashboard creation
-- **SQL** – Data extraction, transformation, and reporting
-- **Python** – Data analysis, forecasting, and machine learning
-- **Excel** – Advanced data manipulation and reporting
+- **Power BI** – Designed interactive dashboards, created custom DAX measures, and implemented **data modeling** techniques to provide business users with real-time insights.
+- **SQL** – Data extraction, transformation, and reporting for BI dashboards.
+- **Python** – Data analysis, forecasting, and machine learning models.
+- **Excel** – Advanced data manipulation and reporting.
 
----
 
-## About the Projects
-Each project in this repository demonstrates my ability to **combine domain expertise** (e.g., F&B, Customer Analytics) with **data analysis** and **visualization tools**. Explore the detailed READMEs in each folder for an in-depth look at the methodology, features, and business impact of each project.
