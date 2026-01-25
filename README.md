@@ -12,17 +12,16 @@ Welcome to my portfolio! Here, I showcase real-world projects demonstrating my s
 
 ## Project Previews
 
-*Snapshot of my F&B Menu Engineering dashboard showcasing KPIs, menu engineering insights, and cost analysis.*
-![F&B Menu Engineering and Performance Dashboard](./Reports/Dashboard_Preview.png)
+*1. Snapshot of my F&B Menu Engineering dashboard showcasing KPIs, menu engineering insights, and cost analysis.*
+![F&B Menu Engineering and Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard/Reports/Dashboard_Preview.png)
 
-*Snapshot of my Capstone Project - Big Data Analytics, forecast global health and economic trends.*
+*2. Snapshot of my Capstone Project - Big Data Analytics, forecast global health and economic trends.*
 
 
 ## Connect
 
 I'm passionate about using data to solve business problems. Feel free to connect with me to discuss analytics, BI, and how I can contribute to your team!
 
-📧 Email: [jenniferyik@gmail.com](mailto:jenniferyik@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/jenniferyik/) | [GitHub](https://github.com/jenniferyik/Portfolio)
 
 ---
