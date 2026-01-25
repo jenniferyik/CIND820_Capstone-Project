@@ -13,12 +13,12 @@ Welcome to my portfolio! I showcase real-world projects that demonstrate my abil
 ## Project Previews
 
 ![F&B Menu Engineering and Performance Dashboard](./01_F&B_Menu_Engineering_and_Performance_Dashboard/Reports/Dashboard_Preview.png)  
-*Snapshot of my F&B Menu Engineering dashboard, providing key insights into **KPIs**, **menu optimization**, and **cost analysis** to drive **data-driven decisions** for F&B businesses.*
+*Snapshot of my Power BI dashboard that provides key insights into **KPIs**, **menu optimization**, and **cost analysis** for better decision-making in F&B businesses.*
 
 ---
 
 ![Capstone Project](./02_Capstone_Project/Report/Capstone_Project_Forecast.png)  
-*Snapshot of my Big Data Analytics capstone project, forecasting long-term global health and economic trends using large-scale historical data to support strategic, long-term decision-making.*
+*Snapshot of my Big Data Analytics capstone project, where I forecast long-term **global health and economic trends** using historical data to support strategic, long-term decision-making.*
 
 ---
 
@@ -31,9 +31,10 @@ I'm passionate about using data to solve business problems. Feel free to connect
 ---
 
 ### Tools & Technologies Used
-- **Power BI** – Designed interactive dashboards, created custom DAX measures, and implemented **data modeling** techniques to provide business users with real-time insights.
-- **SQL** – Data extraction, transformation, and reporting for BI dashboards.
-- **Python** – Data analysis, forecasting, and machine learning models.
-- **Excel** – Advanced data manipulation and reporting.
+- **Power BI** – Designed and developed interactive dashboards, created custom DAX measures, and implemented **data modeling** techniques to drive **real-time business insights**.
+- **SQL** – Extracted, transformed, and reported data for BI dashboards, enabling informed decision-making.
+- **Python** – Conducted data analysis, forecasting, and built **machine learning models** for predictive insights.
+- **Excel** – Utilized advanced data manipulation techniques (PivotTables, XLOOKUP, Macros) for **business analysis and reporting**.
+
 
 
