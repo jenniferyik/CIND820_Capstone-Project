@@ -1,7 +1,7 @@
 # F&B Menu Engineering and Performance Dashboard
 
 ## Executive Summary
-This interactive Power BI dashboard transforms F&B sales and cost data into **clear, actionable insights that drive revenue and protect margins**.  
+This interactive Power BI dashboard transforms F&B sales and cost data into **clear, decision-ready insights that drive revenue and protect margins**.  
 Using **menu engineering principles**, it identifies high- and low-performing items, highlights cost and margin risks, and guides **pricing, promotions, and menu optimization decisions**.  
 Designed for fast, data-driven decision-making, the dashboard demonstrates the ability to **turn complex analytics into tangible business outcomes**.
 
@@ -99,7 +99,7 @@ This classification drives **practical recommendations** for menu optimization a
 - Promoting **Stars** increased revenue and maximized margins  
 - **Puzzles and Plowhorses** identified for pricing, bundling, and cost optimization  
 - **Dogs** flagged for removal or recipe improvement to reduce margin risk  
-- Implementation of recommendations demonstrates **real business impact**
+- The analysis demonstrates clear, measurable business impact and practical decision support
 
 ---
 
@@ -142,13 +142,6 @@ This classification drives **practical recommendations** for menu optimization a
 - Applies analytical frameworks to **real operational decisions**  
 - Designs **executive-ready dashboards** for fast decision-making  
 - Communicates insights effectively to **non-technical stakeholders**
-
----
-
-## Target Audience
-- Restaurant Owners & Managers  
-- Operations & Finance Teams  
-- Business Intelligence & Data Analytics Professionals
 
 ---
 
