@@ -125,6 +125,25 @@ This dashboard enables stakeholders to:
 
 ---
 
+## Results & Recommendations
+- Star items promoted through menu placement increased revenue by XX%  
+- Cost risk items identified and addressed, improving margin by YY%  
+- Recommendations implemented for puzzles and plowhorses to optimize profitability
+- Stars: Promote and feature on menu to maximize high-margin items  
+- Puzzles: Reprice or bundle to increase visibility and profitability  
+- Plowhorses: Optimize portions and control costs  
+- Dogs: Consider removal or recipe rework
+
+---
+
+## Next Steps
+- Integrate more historical data for trend analysis  
+- Add customer segmentation for targeted promotions  
+- Develop predictive analytics to forecast sales and margin by menu item  
+- Automate dashboard refresh and alerts for margin risks
+
+---
+
 ## Tools & Technologies
 - **Power BI** – Data modeling, DAX measures, and dashboard development  
 - **Excel / CSV** – Data preparation and validation  
