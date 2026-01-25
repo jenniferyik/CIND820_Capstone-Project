@@ -23,7 +23,8 @@ High-selling items aren’t always the most profitable, and without clear insigh
 
 ## Project Overview
 This business intelligence dashboard supports **menu performance optimization, profitability analysis, and food cost control** in a Food & Beverage (F&B) environment.  
-By combining **menu engineering theory with sales and cost analytics**, the dashboard enables stakeholders to make **data-driven decisions** about pricing, promotions, and menu composition.
+By combining **menu engineering theory with sales and cost analytics**, the dashboard enables stakeholders to make **data-driven decisions** about pricing, promotions, and menu composition. 
+Detailed data structure, relationships, and definitions are documented in the **Data Dictionary** located in the `/Documentation` folder.
 
 ---
 
@@ -113,8 +114,11 @@ This classification drives **practical recommendations** for menu optimization a
 ## Tools & Technologies
 - **Power BI** – Data modeling, DAX measures, and dashboard development  
 - **SQL** – Data extraction, transformation, and querying  
-- **Excel / CSV** – Data preparation and validation  
+- **Excel / CSV** – XLOOKUP, PivotTable, Data preparation and validation  
 - **Data Analytics & Visualization Best Practices**
+- **Data Modeling & Documentation** – Relational schema design and data dictionary
+
+📄 A complete data dictionary documenting tables, keys, data types, and definitions is included in the `/Documentation` folder.
 
 ---
 
