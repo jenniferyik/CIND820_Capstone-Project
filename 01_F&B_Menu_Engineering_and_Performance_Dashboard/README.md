@@ -6,7 +6,7 @@ It identifies high- and low-performing items using **menu engineering principles
 
 ---
 
-## Objective Overview
+## Project Overview
 This project presents a **business intelligence dashboard** designed to support **menu performance optimization, profitability analysis, and food cost control** in a Food & Beverage (F&B) environment.  
 By combining menu engineering theory with sales and cost analytics, the dashboard enables stakeholders to make **data-driven decisions** around pricing, promotions, and menu composition.
 
