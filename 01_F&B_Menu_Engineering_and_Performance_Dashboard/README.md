@@ -8,7 +8,7 @@ By combining menu engineering theory with sales and cost analytics, the dashboar
 
 ## Dashboard Preview
 
-![01_F&B_Menu_Engineering_and_Performance_Dashboard](./Reports/dashboard_preview.png)
+![01_F&B_Menu_Engineering_and_Performance_Dashboard](./Reports/Dashboard_Preview.png)
 
 *Executive-level Power BI dashboard highlighting KPIs, menu engineering insights, cost risk, and category performance.*
 
